@@ -2,6 +2,6 @@
 
 HNG9 Backend stage 1 task
 
-Get Request Endpoint: http://hng9.citechs.com.ng/?username=chriswax
+Get Request Endpoint: https://chriswx-hng9-task1.herokuapp.com/?username=chriswax
 
-trying reques like :http://hng9.citechs.com.ng/?username=chris or http://hng9.citechs.com.ng gives error message
+trying reques like :https://chriswx-hng9-task1.herokuapp.com/?username=chris orhttps://chriswx-hng9-task1.herokuapp.com gives error message
