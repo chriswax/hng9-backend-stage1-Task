@@ -57,7 +57,8 @@ function calculateOperands($x, $y, $operation){
 
 		$response["slackUsername"] = "chriswax";
 		$response["result"] = $result;
-		$response["operation_Type"]["$operation"] = operationValue($operation);
+		$response["operation_type"] = $operation;
+		//$response["operation_type"]["$operation"] = operationValue($operation);
 
 		header("Content-type: application/json; charset=UTF-8");  //declare header
 		$jsonOutput =  json_encode($response);	//convert to JSON 
