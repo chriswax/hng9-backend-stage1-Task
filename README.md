@@ -9,10 +9,7 @@ the POST Request, accepts two numbers, operation type in JSON format and perform
 
 
 
-
-
-
-HNG9 Backend stage 1 task
+##HNG9 Backend stage 1 task
 
 Get Request Endpoint: https://chriswx-hng9-task1.herokuapp.com/?username=chriswax
 
