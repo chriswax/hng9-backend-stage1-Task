@@ -1,4 +1,5 @@
 <?php
+echo "waxx";
 header('Content-Type: application/json');
 $response = array();
 
